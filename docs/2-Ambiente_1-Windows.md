@@ -34,16 +34,16 @@ Siga as seguintes instruções:
 </ul>
 <ul>
     <li>Clique com o botão direito em Meu computador e selecione Propriedades > Avançado.</li>
-    <img src="../img/java1.png">
-    <img src="../img/java2.png">    
+    <img src="../assets/java1.png">
+    <img src="../assets/java2.png">    
     <li>Clique em variáveis de Ambiente e em Variáveis do sistema vamos criar 2 novas variáveis e editar o Path.</li>
-    <img src="../img/java3.png">
+    <img src="../assets/java3.png">
     <li>Em Variáveis do sistema, vamos em "Novo..." Nome da variável: JAVA_HOME, Valor da Variável: o diretório bin do java</li>
     <li>Novamente em "Novo..." Nome da variável: CLASSPATH, Valor da Variável: %JAVA_HOME%</li>
     <li>Depois em Variáveis de usuário, selecione Path e clique em "Editar..."</li>
     <li>Selecione "Novo" e escreva %JAVA_HOME%
-    <img src="../img/java4.png">
-    <img src="../img/java5.png">
+    <img src="../assets/java4.png">
+    <img src="../assets/java5.png">
     <li> Pronto, seu ambiente Windows está configurado.</li>
     Reinicie o CMD e teste novamente.
 </ul>

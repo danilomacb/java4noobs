@@ -1,9 +1,9 @@
 <h1>Operadores matemáticos</h1>
 Os operadores matemáticos são de importância fundamental para qualquer tipo de linguagem de programação. Eles são os operadores de adição, subtração, multiplicação, divisão, mod (resto), incremento e decremento.
 
->Imagem retirada do <a href="https://github.com/hellowluan/java-basico" target="_blank"> repositório do hellowluan.
+> Imagem retirada do <a href="https://github.com/hellowluan/java-basico" target="_blank"> repositório do hellowluan.
 
-<img src="../img/OperadoresMatematicos.png"></a>
+<img src="../assets/OperadoresMatematicos.png"></a>
 
 <h2> Operador de Adição </h2>
 Como o nome já diz, é um operador que realiza uma soma, ele pode ser atribuído dentro de variáveis ou realizando soma de duas variáveis, no exemplo abaixo fará mais sentido.
@@ -104,8 +104,6 @@ public class OperadorDivisao {
 }
 ```
 
-
-
 <h2> Operador de Mod </h2>
 
 Esse operador retorna o resto de de uma divisão. O exemplo a baixo fica mais simples de entender.
@@ -138,7 +136,7 @@ Estes operadores são a forma reduzida de fazer uma variável incrementar em 1 e
 public class IncrementoDecremento {
     public static void main(String args[]) {
         int variavel1 = 10; //variável do tipo inteiro de nome "variavel1" recebe o valor 10.
-    
+
         System.out.println(variavel1); //mostra o valor da variavel1
 
         variavel1++;//incrementa o valor da do tipo inteiro em 1.
@@ -152,9 +150,9 @@ public class IncrementoDecremento {
         variavel2--; //decrementa o valor da variavel2 em 1.
 
         System.out.println(variavel2); //mostra o valor da variável2 decrementada.
- 
+
     }
 }
 ```
 
-**Obs**.: Operações entre parênteses serão resolvidas primeiro, depois  multiplicação, divisão e módulo.
+**Obs**.: Operações entre parênteses serão resolvidas primeiro, depois multiplicação, divisão e módulo.

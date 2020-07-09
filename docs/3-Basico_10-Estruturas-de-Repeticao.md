@@ -63,7 +63,7 @@ public class EstruturaFor {
 
 ```
 Todas as suas saídas devem ser essa:
-<img src="../img/estruturasDeRepeticao.jpeg">
+<img src="../assets/estruturasDeRepeticao.jpeg">
 
 <h2>For Each</h2>
 

@@ -16,45 +16,43 @@
 
 ### Introdução
 
-1. [Introdução](https://github.com/paulorievrs/java4noobs/blob/master/1%20-%20Introdu%C3%A7%C3%A3o/1.1-Introdu%C3%A7%C3%A3o.md)
-2. [Problemas](https://github.com/paulorievrs/java4noobs/blob/master/1%20-%20Introdu%C3%A7%C3%A3o/1.2-Problemas.md)
-
+1. [Introdução](./docs/1-Introducao_1-Introducao.md)
+2. [Problemas](./docs/1-Introducao_2-Problemas.md)
 
 ### Configuração de Ambiente
 
-1. 💻 [Ambiente Linux](https://github.com/paulorievrs/java4noobs/blob/master/2%20-%20Ambiente/2.1-Ambiente-Linux.md)
-2. 💻 [Ambiente Windows](https://github.com/paulorievrs/java4noobs/blob/master/2%20-%20Ambiente/2.1-Ambiente-Windows.md)
-3. 📋 [Editores de Textos e Plugins](https://github.com/paulorievrs/java4noobs/blob/master/2%20-%20Ambiente/2.2-Editor-de-Texto.md)
-4. 💁‍♂️ [Dicas Gerais](https://github.com/paulorievrs/java4noobs/blob/master/2%20-%20Ambiente/2.3-Dicas-Gerais.md)
+1. 💻 [Ambiente Linux](./docs/2-Ambiente_1-Linux.md)
+2. 💻 [Ambiente Windows](./docs/2-Ambiente_1-Windows.md)
+3. 📋 [Editores de Textos e Plugins](./docs/2-Ambiente_2-Editor-de-Texto.md)
+4. 💁‍♂️ [Dicas Gerais](./docs/2-Ambiente_3-Dicas-Gerais.md)
 
 ### Módulo Básico
 
-1. 🥇 [Primeiro Programa](https://github.com/paulorievrs/java4noobs/blob/master/3%20-%20B%C3%A1sico/01-Primeiro-Programa.md)
-2. [Tipos de Variáveis](https://github.com/paulorievrs/java4noobs/blob/master/3%20-%20B%C3%A1sico/02-Tipos-De-Variaveis.md)
-3. 📄 [Documentação e Indentação](https://github.com/paulorievrs/java4noobs/blob/master/3%20-%20B%C3%A1sico/03-Documenta%C3%A7%C3%A3o-Identa%C3%A7%C3%A3o.md)
-4. 🚦 [Declaração de Variáveis](https://github.com/paulorievrs/java4noobs/blob/master/3%20-%20B%C3%A1sico/04-DeclaracaoDeVariaveis.md)
-5. ➕➖ [Operadores Aritméticos](https://github.com/paulorievrs/java4noobs/blob/master/3%20-%20B%C3%A1sico/05-OperadoresMatematicos.md)
-6. 🎹 [Ler Dados da Entrada Padrão](https://github.com/paulorievrs/java4noobs/blob/master/3%20-%20B%C3%A1sico/06-LendoDadosDaEntradaPadrao.md)
-7. ❗❓ [Operadores Lógicos e de Comparação](https://github.com/paulorievrs/java4noobs/blob/master/3%20-%20B%C3%A1sico/07-OperadoresLogicos-e-Comparacao.md)
-8. 🔛 [Estruturas Condicionais](https://github.com/paulorievrs/java4noobs/blob/master/3%20-%20B%C3%A1sico/08-EstruturasCondicionais.md)
-9. 📝 [Exercício 1](https://github.com/paulorievrs/java4noobs/blob/master/3%20-%20B%C3%A1sico/09-Exercicio1.md)
-10. 🔄 [Estruturas de Repetição](https://github.com/paulorievrs/java4noobs/blob/master/3%20-%20B%C3%A1sico/10-EstruturasDeRepeticao.md)
-11. 🔄 [Comandos Break e Continue](https://github.com/paulorievrs/java4noobs/blob/master/3%20-%20B%C3%A1sico/11-Break-Continue.md)
-12. 🏃‍♂ [Funções / Metodos](https://github.com/paulorievrs/java4noobs/blob/master/3%20-%20B%C3%A1sico/12-Funcoes-Metodos.md)
-13. 🔠 [Arrays](https://github.com/paulorievrs/java4noobs/blob/master/3%20-%20B%C3%A1sico/13-Arrays.md)
-14. 📝 [Exercício 2](https://github.com/paulorievrs/java4noobs/blob/master/3%20-%20B%C3%A1sico/14-Exercico2.md)
-15. 🔠 [Arrays Multidimensionais/Matrizes](https://github.com/paulorievrs/java4noobs/blob/master/3%20-%20B%C3%A1sico/15-Matrizes.md)
-16. 🏃‍♂ [Diferenças de Métodos static e non-static](https://github.com/paulorievrs/java4noobs/blob/master/3%20-%20B%C3%A1sico/16-Diferencas-Static-nonStatic.md)
-17. ✋ [Exceções](https://github.com/paulorievrs/java4noobs/blob/master/3%20-%20B%C3%A1sico/17-Excecoes.md)
+1. 🥇 [Primeiro Programa](./docs/3-Basico_1-Primeiro-Programa.md)
+2. [Tipos de Variáveis](./docs/3-Basico_2-Tipos-De-Variaveis.md)
+3. 📄 [Documentação e Indentação](./docs/3-Basico_3-Documentação-Identação.md)
+4. 🚦 [Declaração de Variáveis](./docs/3-Basico_4-Declaracao-de-Variaveis.md)
+5. ➕➖ [Operadores Aritméticos](./docs/3-Basico_5-Operadores-Matematicos.md)
+6. 🎹 [Ler Dados da Entrada Padrão](./docs/3-Basico_6-Lendo-Dados-da-Entrada-Padrao.md)
+7. ❗❓ [Operadores Lógicos e de Comparação](./docs/3-Basico_7-Operadores-Logicos-e-Comparacao.md)
+8. 🔛 [Estruturas Condicionais](./docs/3-Basico_8-Estruturas-Condicionais.md)
+9. 📝 [Exercício 1](./docs/3-Basico_9-Exercicio1.md)
+10. 🔄 [Estruturas de Repetição](./docs/3-Basico_10-Estruturas-de-Repeticao.md)
+11. 🔄 [Comandos Break e Continue](./docs/3-Basico_11-Break-Continue.md)
+12. 🏃‍♂ [Funções / Metodos](./docs/3-Basico_12-Funcoes-Metodos.md)
+13. 🔠 [Arrays](./docs/3-Basico_13-Arrays.md)
+14. 📝 [Exercício 2](./docs/3-Basico_14-Exercico2.md)
+15. 🔠 [Arrays Multidimensionais/Matrizes](./docs/3-Basico_15-Matrizes.md)
+16. 🏃‍♂ [Diferenças de Métodos static e non-static](./docs/3-Basico_16-Diferencas-Static-non-Static.md)
+17. ✋ [Exceções](./docs/3-Basico_17-Excecoes.md)
 
 ### Módulo Intermédiario
 
-1. 👁️‍🗨️ [Métodos Utéis de Java](https://github.com/paulorievrs/java4noobs/blob/master/4%20-%20Intermedi%C3%A1rio/01-MetodosUteis.md)
-2. 📂 [Leitura e Criação de Arquivos](https://github.com/paulorievrs/java4noobs/blob/master/4%20-%20Intermedi%C3%A1rio/02-LeituraDeArquivo.md)
-3. 🤖 [Início de Programação Orientada ao Objeto](https://github.com/paulorievrs/java4noobs/blob/master/4%20-%20Intermedi%C3%A1rio/03-InicioPOO.md)
-4. 👨‍🏫 [Minha Primeira Classe](https://github.com/paulorievrs/java4noobs/blob/master/4%20-%20Intermedi%C3%A1rio/04-PrimeiraClasse.md)
-5. 👨‍🏫 [Utilizando a Classe](https://github.com/paulorievrs/java4noobs/blob/master/4%20-%20Intermedi%C3%A1rio/05-Utilizando-Classe.md)
-
+1. 👁️‍🗨️ [Métodos Utéis de Java](./docs/4-Intermediario_1-Metodos-Uteis.md)
+2. 📂 [Leitura e Criação de Arquivos](./docs/4-Intermediario_2-Leitura-de-Arquivo.md)
+3. 🤖 [Início de Programação Orientada ao Objeto](./docs/4-Intermediario_3-Inicio-POO.md)
+4. 👨‍🏫 [Minha Primeira Classe](./docs/4-Intermediario_4-Primeira-Classe.md)
+5. 👨‍🏫 [Utilizando a Classe](./docs/4-Intermediario_5-Utilizando-Classe.md)
 
 ## Como Contribuir
 

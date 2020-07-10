@@ -16,43 +16,43 @@
 
 ### Introdução
 
-1. [Introdução](./docs/1-Introducao_1-Introducao.md)
-2. [Problemas](./docs/1-Introducao_2-Problemas.md)
+1. [Introdução](./4noobsDocs/1-Introducao_1-Introducao.md)
+2. [Problemas](./4noobsDocs/1-Introducao_2-Problemas.md)
 
 ### Configuração de Ambiente
 
-1. 💻 [Ambiente Linux](./docs/2-Ambiente_1-Linux.md)
-2. 💻 [Ambiente Windows](./docs/2-Ambiente_1-Windows.md)
-3. 📋 [Editores de Textos e Plugins](./docs/2-Ambiente_2-Editor-de-Texto.md)
-4. 💁‍♂️ [Dicas Gerais](./docs/2-Ambiente_3-Dicas-Gerais.md)
+1. 💻 [Ambiente Linux](./4noobsDocs/2-Ambiente_1-Linux.md)
+2. 💻 [Ambiente Windows](./4noobsDocs/2-Ambiente_1-Windows.md)
+3. 📋 [Editores de Textos e Plugins](./4noobsDocs/2-Ambiente_2-Editor-de-Texto.md)
+4. 💁‍♂️ [Dicas Gerais](./4noobsDocs/2-Ambiente_3-Dicas-Gerais.md)
 
 ### Módulo Básico
 
-1. 🥇 [Primeiro Programa](./docs/3-Basico_1-Primeiro-Programa.md)
-2. [Tipos de Variáveis](./docs/3-Basico_2-Tipos-De-Variaveis.md)
-3. 📄 [Documentação e Indentação](./docs/3-Basico_3-Documentação-Identação.md)
-4. 🚦 [Declaração de Variáveis](./docs/3-Basico_4-Declaracao-de-Variaveis.md)
-5. ➕➖ [Operadores Aritméticos](./docs/3-Basico_5-Operadores-Matematicos.md)
-6. 🎹 [Ler Dados da Entrada Padrão](./docs/3-Basico_6-Lendo-Dados-da-Entrada-Padrao.md)
-7. ❗❓ [Operadores Lógicos e de Comparação](./docs/3-Basico_7-Operadores-Logicos-e-Comparacao.md)
-8. 🔛 [Estruturas Condicionais](./docs/3-Basico_8-Estruturas-Condicionais.md)
-9. 📝 [Exercício 1](./docs/3-Basico_9-Exercicio1.md)
-10. 🔄 [Estruturas de Repetição](./docs/3-Basico_10-Estruturas-de-Repeticao.md)
-11. 🔄 [Comandos Break e Continue](./docs/3-Basico_11-Break-Continue.md)
-12. 🏃‍♂ [Funções / Metodos](./docs/3-Basico_12-Funcoes-Metodos.md)
-13. 🔠 [Arrays](./docs/3-Basico_13-Arrays.md)
-14. 📝 [Exercício 2](./docs/3-Basico_14-Exercico2.md)
-15. 🔠 [Arrays Multidimensionais/Matrizes](./docs/3-Basico_15-Matrizes.md)
-16. 🏃‍♂ [Diferenças de Métodos static e non-static](./docs/3-Basico_16-Diferencas-Static-non-Static.md)
-17. ✋ [Exceções](./docs/3-Basico_17-Excecoes.md)
+1. 🥇 [Primeiro Programa](./4noobsDocs/3-Basico_1-Primeiro-Programa.md)
+2. [Tipos de Variáveis](./4noobsDocs/3-Basico_2-Tipos-De-Variaveis.md)
+3. 📄 [Documentação e Indentação](./4noobsDocs/3-Basico_3-Documentação-Identação.md)
+4. 🚦 [Declaração de Variáveis](./4noobsDocs/3-Basico_4-Declaracao-de-Variaveis.md)
+5. ➕➖ [Operadores Aritméticos](./4noobsDocs/3-Basico_5-Operadores-Matematicos.md)
+6. 🎹 [Ler Dados da Entrada Padrão](./4noobsDocs/3-Basico_6-Lendo-Dados-da-Entrada-Padrao.md)
+7. ❗❓ [Operadores Lógicos e de Comparação](./4noobsDocs/3-Basico_7-Operadores-Logicos-e-Comparacao.md)
+8. 🔛 [Estruturas Condicionais](./4noobsDocs/3-Basico_8-Estruturas-Condicionais.md)
+9. 📝 [Exercício 1](./4noobsDocs/3-Basico_9-Exercicio1.md)
+10. 🔄 [Estruturas de Repetição](./4noobsDocs/3-Basico_10-Estruturas-de-Repeticao.md)
+11. 🔄 [Comandos Break e Continue](./4noobsDocs/3-Basico_11-Break-Continue.md)
+12. 🏃‍♂ [Funções / Metodos](./4noobsDocs/3-Basico_12-Funcoes-Metodos.md)
+13. 🔠 [Arrays](./4noobsDocs/3-Basico_13-Arrays.md)
+14. 📝 [Exercício 2](./4noobsDocs/3-Basico_14-Exercico2.md)
+15. 🔠 [Arrays Multidimensionais/Matrizes](./4noobsDocs/3-Basico_15-Matrizes.md)
+16. 🏃‍♂ [Diferenças de Métodos static e non-static](./4noobsDocs/3-Basico_16-Diferencas-Static-non-Static.md)
+17. ✋ [Exceções](./4noobsDocs/3-Basico_17-Excecoes.md)
 
 ### Módulo Intermédiario
 
-1. 👁️‍🗨️ [Métodos Utéis de Java](./docs/4-Intermediario_1-Metodos-Uteis.md)
-2. 📂 [Leitura e Criação de Arquivos](./docs/4-Intermediario_2-Leitura-de-Arquivo.md)
-3. 🤖 [Início de Programação Orientada ao Objeto](./docs/4-Intermediario_3-Inicio-POO.md)
-4. 👨‍🏫 [Minha Primeira Classe](./docs/4-Intermediario_4-Primeira-Classe.md)
-5. 👨‍🏫 [Utilizando a Classe](./docs/4-Intermediario_5-Utilizando-Classe.md)
+1. 👁️‍🗨️ [Métodos Utéis de Java](./4noobsDocs/4-Intermediario_1-Metodos-Uteis.md)
+2. 📂 [Leitura e Criação de Arquivos](./4noobsDocs/4-Intermediario_2-Leitura-de-Arquivo.md)
+3. 🤖 [Início de Programação Orientada ao Objeto](./4noobsDocs/4-Intermediario_3-Inicio-POO.md)
+4. 👨‍🏫 [Minha Primeira Classe](./4noobsDocs/4-Intermediario_4-Primeira-Classe.md)
+5. 👨‍🏫 [Utilizando a Classe](./4noobsDocs/4-Intermediario_5-Utilizando-Classe.md)
 
 ## Como Contribuir
 

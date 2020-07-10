@@ -3,7 +3,7 @@ Os operadores matemáticos são de importância fundamental para qualquer tipo d
 
 > Imagem retirada do <a href="https://github.com/hellowluan/java-basico" target="_blank"> repositório do hellowluan.
 
-<img src="../assets/OperadoresMatematicos.png"></a>
+<img src="../4noobsAssets/OperadoresMatematicos.png"></a>
 
 <h2> Operador de Adição </h2>
 Como o nome já diz, é um operador que realiza uma soma, ele pode ser atribuído dentro de variáveis ou realizando soma de duas variáveis, no exemplo abaixo fará mais sentido.

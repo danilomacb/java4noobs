@@ -21,7 +21,7 @@ public class UsandoBreak {
 ```
 
 Teria que ficar assim:
-<img src="../assets/break.jpeg">
+<img src="../4noobsAssets/break.jpeg">
 
 <h2>Continue</h2>
 
@@ -43,5 +43,5 @@ public class Continue {
 ```
 
 Teria que ficar assim:
-<img src="../assets/Continue.jpeg">
+<img src="../4noobsAssets/Continue.jpeg">
 Observe que o valor 5 não foi exibido. Isso ocorreu pois o Continue foi utilizado, portanto, todo o código que está abaixo do continue foi ignorado. Quando atingiu 6, a condição do if não foi satisfeita e a condição for seguiu até o fim.

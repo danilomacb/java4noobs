@@ -5,7 +5,7 @@ Ambos os operadores são utilizados na maioria em estruturas de condição, que 
 
 >Imagem retirada do <a href="https://github.com/hellowluan/java-basico" target="_blank"> repositório do hellowluan.
 
-<img src="../assets/OperadoresLogicos.png"> </a>
+<img src="../4noobsAssets/OperadoresLogicos.png"> </a>
 
 Se você conhece algum tipo de lógica de programação, já entendeu como eles funcionam, mas para esclarecer entraremos em mais detelhes.
 
@@ -14,7 +14,7 @@ Se você conhece algum tipo de lógica de programação, já entendeu como eles 
 >Imagem retirada do <a href="https://github.com/hellowluan/
 java-basico" target="_blank"> repositório do hellowluan.
 
-<img src="../assets/OperadoresComparacao.png"> </a>
+<img src="../4noobsAssets/OperadoresComparacao.png"> </a>
 
 Esses Operadores são como na matemática, e na programação é possível comparar valores também, e é onde os operadores lógicos entram nessa brincadeira.
 

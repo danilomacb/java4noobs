@@ -26,6 +26,6 @@ public class Matrizes {
 ```
 Essa matriz é representada matematicamente assim:
 
-<img src="../assets/matrizes.png">
+<img src="../4noobsAssets/matrizes.png">
 
 A primeira parte da declaração é qual linha e a segunda parte é qual coluna voce quer colocar o dado. Também inicia-se com 0 ambas.
